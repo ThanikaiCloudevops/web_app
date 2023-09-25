@@ -8,7 +8,7 @@ This project demonstrates the complete Continuous Integration/Continuous Deploym
 ```
 # Prerequisites
 
-AWS Console
+AWS Console ...
 Good knowledge on Devops tools:
 Jenkins 
 Docker
