@@ -8,12 +8,7 @@ This project demonstrates the complete Continuous Integration/Continuous Deploym
 ```
 # Prerequisites
 
-AWS Console ,
-Good knowledge on Devops tools: 
-Jenkins ,
-Docker ,
-Ansible ,
-Kubernetes(EKS).
+AWS Console , Good knowledge on Devops tools: Jenkins , Docker , Ansible , Kubernetes(EKS).
 
 ## Steps 
 
