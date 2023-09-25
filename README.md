@@ -17,5 +17,20 @@ This project utilizes Amazon Web Services (AWS) to host a multi-server infrastru
 
 In the dedicated Jenkins and Maven server, Jenkins has been installed and configured as the continuous integration and continuous deployment (CI/CD) tool, while Maven has been set up as the build automation tool
 
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your jenkins server 
+
+```bash
+  vi .bash_profile 
+```
+
+`M2=opt/maven/bin`
+
+`M2_HOME =opt/maven_path`
+
+`JAVA_HOME = java_path`
+
+
 
 
