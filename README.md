@@ -11,3 +11,5 @@ This project demonstrates the complete Continuous Integration/Continuous Deploym
 This project utilizes Amazon Web Services (AWS) to host a multi-server infrastructure: one EC2 instance hosts Jenkins and Maven for continuous integration, another EC2 instance manages Ansible and Docker for infrastructure provisioning and containerization, while a separate EC2 instance serves as the control plane for an Amazon EKS Kubernetes cluster.
 
 
+In the dedicated Jenkins and Maven server, Jenkins has been installed and configured as the continuous integration and continuous deployment (CI/CD) tool, while Maven has been set up as the build automation tool
+
