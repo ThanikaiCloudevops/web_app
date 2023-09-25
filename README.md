@@ -4,5 +4,5 @@ This project demonstrates the complete Continuous Integration/Continuous Deploym
 
 
 ```bash
-  
+  git clone https://github.com/ThanikaiCloudevops/web_app.git
 ```
