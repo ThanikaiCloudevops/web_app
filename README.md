@@ -63,9 +63,10 @@ To run this project, you will need to add the following environment variables to
 6. **Ansible Host Configuration**:
    - To execute Ansible playbooks, we've defined the Ansible host IP in
    - This host is responsible for managing and deploying applications.
-     ```bash
-    `/etc/ansible/hosts`
-     ```
+  
+```bash
+  vi /etc/ansible/hosts
+```
 
 7. **Docker Image Build and Push**:
    - Upon playbook execution, Ansible builds Docker images for our applications.
